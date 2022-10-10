@@ -23,16 +23,16 @@ The repostory contains:
 1) Completed DROP, CREATE and INSERT query in **sql_queries.py**
 2) Run in terminal 
 
-    ``` python create_tables.py 
-    ```
+    `` python create_tables.py 
+    ``
 
 3) Run `test.ipynb` notebook to verify that all tables were created correctly.
 4) Completed `etl.ipynb` notebook to insert the data from a single file in song_data and log_data into tables.
 5) Run `test.ipynb` notebook to verify that all the entries were inserted correctly.
 6) Completed `etl.py` and run it in terminal  
 
-    ``` python etl.py 
-    ```
+    `` python etl.py 
+    ``
 
 7) Run once again `test.ipynb` to check the tables and run (and passed) the *sanity check*
 
